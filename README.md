@@ -1,6 +1,7 @@
 microwave
 =========
 
+![](https://raw.github.com/pokle/microwave/master/doco/microwave.png)
 
 
 - Orchestrates the deployment of virtual machine images (built with Packer), and linux container images (built with Docker)
